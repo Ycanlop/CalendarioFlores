@@ -1,0 +1,2557 @@
+[
+ {
+  "n": 1,
+  "dd": "29",
+  "mm": "09",
+  "name": "Brezo blanco",
+  "meaning": "Protección"
+ },
+ {
+  "n": 2,
+  "dd": "30",
+  "mm": "09",
+  "name": "Aster",
+  "meaning": "Amor delicado"
+ },
+ {
+  "n": 3,
+  "dd": "01",
+  "mm": "10",
+  "name": "Rosa coral",
+  "meaning": "Deseo"
+ },
+ {
+  "n": 4,
+  "dd": "02",
+  "mm": "10",
+  "name": "Celosia",
+  "meaning": "Atrevimiento"
+ },
+ {
+  "n": 5,
+  "dd": "03",
+  "mm": "10",
+  "name": "Solidago",
+  "meaning": "Ánimo"
+ },
+ {
+  "n": 6,
+  "dd": "04",
+  "mm": "10",
+  "name": "Alhelí",
+  "meaning": "Fidelidad"
+ },
+ {
+  "n": 7,
+  "dd": "05",
+  "mm": "10",
+  "name": "Protea",
+  "meaning": "Transformación"
+ },
+ {
+  "n": 8,
+  "dd": "06",
+  "mm": "10",
+  "name": "Caléndula",
+  "meaning": "Alegría"
+ },
+ {
+  "n": 9,
+  "dd": "07",
+  "mm": "10",
+  "name": "Verbena",
+  "meaning": "Encanto"
+ },
+ {
+  "n": 10,
+  "dd": "08",
+  "mm": "10",
+  "name": "Azalea",
+  "meaning": "Cuidado"
+ },
+ {
+  "n": 11,
+  "dd": "09",
+  "mm": "10",
+  "name": "Milenrama",
+  "meaning": "Curación"
+ },
+ {
+  "n": 12,
+  "dd": "10",
+  "mm": "10",
+  "name": "Buganvilla",
+  "meaning": "Pasión"
+ },
+ {
+  "n": 13,
+  "dd": "11",
+  "mm": "10",
+  "name": "Dalia",
+  "meaning": "Dignidad"
+ },
+ {
+  "n": 14,
+  "dd": "12",
+  "mm": "10",
+  "name": "Tagete",
+  "meaning": "Protección"
+ },
+ {
+  "n": 15,
+  "dd": "13",
+  "mm": "10",
+  "name": "Malva",
+  "meaning": "Comprensión"
+ },
+ {
+  "n": 16,
+  "dd": "14",
+  "mm": "10",
+  "name": "Crisantemo bronce",
+  "meaning": "Fortaleza"
+ },
+ {
+  "n": 17,
+  "dd": "15",
+  "mm": "10",
+  "name": "Borraja",
+  "meaning": "Coraje"
+ },
+ {
+  "n": 18,
+  "dd": "16",
+  "mm": "10",
+  "name": "Lavanda",
+  "meaning": "Devoción"
+ },
+ {
+  "n": 19,
+  "dd": "17",
+  "mm": "10",
+  "name": "Genciana",
+  "meaning": "Justicia"
+ },
+ {
+  "n": 20,
+  "dd": "18",
+  "mm": "10",
+  "name": "Siempreviva",
+  "meaning": "Eternidad"
+ },
+ {
+  "n": 21,
+  "dd": "19",
+  "mm": "10",
+  "name": "Limonium",
+  "meaning": "Recuerdo duradero"
+ },
+ {
+  "n": 22,
+  "dd": "20",
+  "mm": "10",
+  "name": "Cosmos",
+  "meaning": "Armonía"
+ },
+ {
+  "n": 23,
+  "dd": "21",
+  "mm": "10",
+  "name": "Rudbeckia",
+  "meaning": "Justicia"
+ },
+ {
+  "n": 24,
+  "dd": "22",
+  "mm": "10",
+  "name": "Gerbera",
+  "meaning": "Alegría"
+ },
+ {
+  "n": 25,
+  "dd": "23",
+  "mm": "10",
+  "name": "Centaurea",
+  "meaning": "Delicadeza"
+ },
+ {
+  "n": 26,
+  "dd": "24",
+  "mm": "10",
+  "name": "Tansy",
+  "meaning": "Resistencia"
+ },
+ {
+  "n": 27,
+  "dd": "25",
+  "mm": "10",
+  "name": "Helenium",
+  "meaning": "Nostalgia"
+ },
+ {
+  "n": 28,
+  "dd": "26",
+  "mm": "10",
+  "name": "Coreopsis",
+  "meaning": "Alegría"
+ },
+ {
+  "n": 29,
+  "dd": "27",
+  "mm": "10",
+  "name": "Caléndula africana",
+  "meaning": "Protección"
+ },
+ {
+  "n": 30,
+  "dd": "28",
+  "mm": "10",
+  "name": "Heliotropo",
+  "meaning": "Devoción"
+ },
+ {
+  "n": 31,
+  "dd": "29",
+  "mm": "10",
+  "name": "Nigella",
+  "meaning": "Perplejidad"
+ },
+ {
+  "n": 32,
+  "dd": "30",
+  "mm": "10",
+  "name": "Amaranto",
+  "meaning": "Inmortalidad"
+ },
+ {
+  "n": 33,
+  "dd": "31",
+  "mm": "10",
+  "name": "Cempasúchil",
+  "meaning": "Recuerdo de los difuntos"
+ },
+ {
+  "n": 34,
+  "dd": "01",
+  "mm": "11",
+  "name": "Crisantemo blanco",
+  "meaning": "Recuerdo y homenaje"
+ },
+ {
+  "n": 35,
+  "dd": "02",
+  "mm": "11",
+  "name": "Cempasúchil naranja",
+  "meaning": "Memoria"
+ },
+ {
+  "n": 36,
+  "dd": "03",
+  "mm": "11",
+  "name": "Flor de terciopelo",
+  "meaning": "Recuerdo"
+ },
+ {
+  "n": 37,
+  "dd": "04",
+  "mm": "11",
+  "name": "Cineraria",
+  "meaning": "Sensibilidad"
+ },
+ {
+  "n": 38,
+  "dd": "05",
+  "mm": "11",
+  "name": "Alhelí amarillo",
+  "meaning": "Fidelidad"
+ },
+ {
+  "n": 39,
+  "dd": "06",
+  "mm": "11",
+  "name": "Scabiosa",
+  "meaning": "Desgracia"
+ },
+ {
+  "n": 40,
+  "dd": "07",
+  "mm": "11",
+  "name": "Astrantia",
+  "meaning": "Fuerza"
+ },
+ {
+  "n": 41,
+  "dd": "08",
+  "mm": "11",
+  "name": "Edelweiss",
+  "meaning": "Valentía"
+ },
+ {
+  "n": 42,
+  "dd": "09",
+  "mm": "11",
+  "name": "Linaria",
+  "meaning": "Bondad"
+ },
+ {
+  "n": 43,
+  "dd": "10",
+  "mm": "11",
+  "name": "Bouvardia",
+  "meaning": "Entusiasmo"
+ },
+ {
+  "n": 44,
+  "dd": "11",
+  "mm": "11",
+  "name": "Flox",
+  "meaning": "Armonía"
+ },
+ {
+  "n": 45,
+  "dd": "12",
+  "mm": "11",
+  "name": "Statice",
+  "meaning": "Recuerdo"
+ },
+ {
+  "n": 46,
+  "dd": "13",
+  "mm": "11",
+  "name": "Artemisa",
+  "meaning": "Protección"
+ },
+ {
+  "n": 47,
+  "dd": "14",
+  "mm": "11",
+  "name": "Muguet",
+  "meaning": "Felicidad"
+ },
+ {
+  "n": 48,
+  "dd": "15",
+  "mm": "11",
+  "name": "Calceolaria",
+  "meaning": "Encanto"
+ },
+ {
+  "n": 49,
+  "dd": "16",
+  "mm": "11",
+  "name": "Gazania",
+  "meaning": "Riqueza"
+ },
+ {
+  "n": 50,
+  "dd": "17",
+  "mm": "11",
+  "name": "Nemesia",
+  "meaning": "Amistad"
+ },
+ {
+  "n": 51,
+  "dd": "18",
+  "mm": "11",
+  "name": "Crisantemo verde",
+  "meaning": "Renovación"
+ },
+ {
+  "n": 52,
+  "dd": "19",
+  "mm": "11",
+  "name": "Heliconia",
+  "meaning": "Orgullo"
+ },
+ {
+  "n": 53,
+  "dd": "20",
+  "mm": "11",
+  "name": "Amaranto colgante",
+  "meaning": "Inmortalidad"
+ },
+ {
+  "n": 54,
+  "dd": "21",
+  "mm": "11",
+  "name": "Eustoma",
+  "meaning": "Apreciación"
+ },
+ {
+  "n": 55,
+  "dd": "22",
+  "mm": "11",
+  "name": "Edelweiss",
+  "meaning": "Coraje"
+ },
+ {
+  "n": 56,
+  "dd": "23",
+  "mm": "11",
+  "name": "Tigridia",
+  "meaning": "Orgullo"
+ },
+ {
+  "n": 57,
+  "dd": "24",
+  "mm": "11",
+  "name": "Kalanchoe",
+  "meaning": "Persistencia"
+ },
+ {
+  "n": 58,
+  "dd": "25",
+  "mm": "11",
+  "name": "Anigozanthos",
+  "meaning": "Perseverancia"
+ },
+ {
+  "n": 59,
+  "dd": "26",
+  "mm": "11",
+  "name": "Banksia",
+  "meaning": "Renacimiento"
+ },
+ {
+  "n": 60,
+  "dd": "27",
+  "mm": "11",
+  "name": "Grevillea",
+  "meaning": "Amabilidad"
+ },
+ {
+  "n": 61,
+  "dd": "28",
+  "mm": "11",
+  "name": "Protea",
+  "meaning": "Cambio"
+ },
+ {
+  "n": 62,
+  "dd": "29",
+  "mm": "11",
+  "name": "Ixora",
+  "meaning": "Pasión"
+ },
+ {
+  "n": 63,
+  "dd": "30",
+  "mm": "11",
+  "name": "Lobelia",
+  "meaning": "Benevolencia"
+ },
+ {
+  "n": 64,
+  "dd": "01",
+  "mm": "12",
+  "name": "Estrella de Belén",
+  "meaning": "Esperanza"
+ },
+ {
+  "n": 65,
+  "dd": "02",
+  "mm": "12",
+  "name": "Flor de algodón",
+  "meaning": "Prosperidad"
+ },
+ {
+  "n": 66,
+  "dd": "03",
+  "mm": "12",
+  "name": "Poinsettia blanca",
+  "meaning": "Pureza"
+ },
+ {
+  "n": 67,
+  "dd": "04",
+  "mm": "12",
+  "name": "Poinsettia rosa",
+  "meaning": "Alegría"
+ },
+ {
+  "n": 68,
+  "dd": "05",
+  "mm": "12",
+  "name": "Poinsettia roja",
+  "meaning": "Celebración"
+ },
+ {
+  "n": 69,
+  "dd": "06",
+  "mm": "12",
+  "name": "Amarilis roja",
+  "meaning": "Determinación"
+ },
+ {
+  "n": 70,
+  "dd": "07",
+  "mm": "12",
+  "name": "Amarilis blanca",
+  "meaning": "Elegancia"
+ },
+ {
+  "n": 71,
+  "dd": "08",
+  "mm": "12",
+  "name": "Azucena blanca",
+  "meaning": "Pureza"
+ },
+ {
+  "n": 72,
+  "dd": "09",
+  "mm": "12",
+  "name": "Muérdago",
+  "meaning": "Amor y buena fortuna"
+ },
+ {
+  "n": 73,
+  "dd": "10",
+  "mm": "12",
+  "name": "Acebo",
+  "meaning": "Protección"
+ },
+ {
+  "n": 74,
+  "dd": "11",
+  "mm": "12",
+  "name": "Flor de olivo",
+  "meaning": "Paz"
+ },
+ {
+  "n": 75,
+  "dd": "12",
+  "mm": "12",
+  "name": "Flor de granado",
+  "meaning": "Fertilidad"
+ },
+ {
+  "n": 76,
+  "dd": "13",
+  "mm": "12",
+  "name": "Flor de limonero",
+  "meaning": "Pureza"
+ },
+ {
+  "n": 77,
+  "dd": "14",
+  "mm": "12",
+  "name": "Flor de naranjo",
+  "meaning": "Matrimonio"
+ },
+ {
+  "n": 78,
+  "dd": "15",
+  "mm": "12",
+  "name": "Flor de mandarina",
+  "meaning": "Abundancia"
+ },
+ {
+  "n": 79,
+  "dd": "16",
+  "mm": "12",
+  "name": "Flor de canela",
+  "meaning": "Calidez"
+ },
+ {
+  "n": 80,
+  "dd": "17",
+  "mm": "12",
+  "name": "Eucalipto en flor",
+  "meaning": "Protección"
+ },
+ {
+  "n": 81,
+  "dd": "18",
+  "mm": "12",
+  "name": "Madroño en flor",
+  "meaning": "Resistencia"
+ },
+ {
+  "n": 82,
+  "dd": "19",
+  "mm": "12",
+  "name": "Flor de almendro",
+  "meaning": "Esperanza"
+ },
+ {
+  "n": 83,
+  "dd": "20",
+  "mm": "12",
+  "name": "Flor de ciruelo",
+  "meaning": "Perseverancia"
+ },
+ {
+  "n": 84,
+  "dd": "21",
+  "mm": "12",
+  "name": "Flor de cerezo",
+  "meaning": "Belleza efímera"
+ },
+ {
+  "n": 85,
+  "dd": "22",
+  "mm": "12",
+  "name": "Flor de pera",
+  "meaning": "Esperanza"
+ },
+ {
+  "n": 86,
+  "dd": "23",
+  "mm": "12",
+  "name": "Ciclamen blanco",
+  "meaning": "Despedida"
+ },
+ {
+  "n": 87,
+  "dd": "24",
+  "mm": "12",
+  "name": "Ciclamen rosa",
+  "meaning": "Amor tímido"
+ },
+ {
+  "n": 88,
+  "dd": "25",
+  "mm": "12",
+  "name": "Poinsettia roja",
+  "meaning": "Navidad"
+ },
+ {
+  "n": 89,
+  "dd": "26",
+  "mm": "12",
+  "name": "Ciclamen rojo",
+  "meaning": "Pasión"
+ },
+ {
+  "n": 90,
+  "dd": "27",
+  "mm": "12",
+  "name": "Acebo en flor",
+  "meaning": "Defensa"
+ },
+ {
+  "n": 91,
+  "dd": "28",
+  "mm": "12",
+  "name": "Algodón en flor",
+  "meaning": "Abundancia"
+ },
+ {
+  "n": 92,
+  "dd": "29",
+  "mm": "12",
+  "name": "Anémona blanca",
+  "meaning": "Sinceridad"
+ },
+ {
+  "n": 93,
+  "dd": "30",
+  "mm": "12",
+  "name": "Anémona azul",
+  "meaning": "Expectativa"
+ },
+ {
+  "n": 94,
+  "dd": "31",
+  "mm": "12",
+  "name": "Anémona roja",
+  "meaning": "Anticipación"
+ },
+ {
+  "n": 95,
+  "dd": "01",
+  "mm": "01",
+  "name": "Campanilla de invierno",
+  "meaning": "Esperanza"
+ },
+ {
+  "n": 96,
+  "dd": "02",
+  "mm": "01",
+  "name": "Violeta",
+  "meaning": "Fidelidad"
+ },
+ {
+  "n": 97,
+  "dd": "03",
+  "mm": "01",
+  "name": "Acacia",
+  "meaning": "Amor secreto"
+ },
+ {
+  "n": 98,
+  "dd": "04",
+  "mm": "01",
+  "name": "Romero en flor",
+  "meaning": "Recuerdo"
+ },
+ {
+  "n": 99,
+  "dd": "05",
+  "mm": "01",
+  "name": "Camelia blanca",
+  "meaning": "Admiración"
+ },
+ {
+  "n": 100,
+  "dd": "06",
+  "mm": "01",
+  "name": "Azafrán",
+  "meaning": "Alegría"
+ },
+ {
+  "n": 101,
+  "dd": "07",
+  "mm": "01",
+  "name": "Mirto",
+  "meaning": "Amor matrimonial"
+ },
+ {
+  "n": 102,
+  "dd": "08",
+  "mm": "01",
+  "name": "Laurel en flor",
+  "meaning": "Gloria"
+ },
+ {
+  "n": 103,
+  "dd": "09",
+  "mm": "01",
+  "name": "Amarilis",
+  "meaning": "Orgullo"
+ },
+ {
+  "n": 104,
+  "dd": "10",
+  "mm": "01",
+  "name": "Siempreviva amarilla",
+  "meaning": "Eternidad"
+ },
+ {
+  "n": 105,
+  "dd": "11",
+  "mm": "01",
+  "name": "Madreselva",
+  "meaning": "Vínculo amoroso"
+ },
+ {
+  "n": 106,
+  "dd": "12",
+  "mm": "01",
+  "name": "Hiedra en flor",
+  "meaning": "Fidelidad"
+ },
+ {
+  "n": 107,
+  "dd": "13",
+  "mm": "01",
+  "name": "Begonia",
+  "meaning": "Cuidado"
+ },
+ {
+  "n": 108,
+  "dd": "14",
+  "mm": "01",
+  "name": "Clavel blanco",
+  "meaning": "Inocencia"
+ },
+ {
+  "n": 109,
+  "dd": "15",
+  "mm": "01",
+  "name": "Prímula",
+  "meaning": "Juventud"
+ },
+ {
+  "n": 110,
+  "dd": "16",
+  "mm": "01",
+  "name": "Narciso",
+  "meaning": "Autoestima"
+ },
+ {
+  "n": 111,
+  "dd": "17",
+  "mm": "01",
+  "name": "Alstroemeria",
+  "meaning": "Amistad"
+ },
+ {
+  "n": 112,
+  "dd": "18",
+  "mm": "01",
+  "name": "Fresia",
+  "meaning": "Amistad"
+ },
+ {
+  "n": 113,
+  "dd": "19",
+  "mm": "01",
+  "name": "Salvia en flor",
+  "meaning": "Sabiduría"
+ },
+ {
+  "n": 114,
+  "dd": "20",
+  "mm": "01",
+  "name": "Diente de león",
+  "meaning": "Fidelidad"
+ },
+ {
+  "n": 115,
+  "dd": "21",
+  "mm": "01",
+  "name": "Anturio",
+  "meaning": "Hospitalidad"
+ },
+ {
+  "n": 116,
+  "dd": "22",
+  "mm": "01",
+  "name": "Aster blanco",
+  "meaning": "Pureza"
+ },
+ {
+  "n": 117,
+  "dd": "23",
+  "mm": "01",
+  "name": "Azalea blanca",
+  "meaning": "Templanza"
+ },
+ {
+  "n": 118,
+  "dd": "24",
+  "mm": "01",
+  "name": "Boca de dragón",
+  "meaning": "Gracia"
+ },
+ {
+  "n": 119,
+  "dd": "25",
+  "mm": "01",
+  "name": "Espuela de caballero",
+  "meaning": "Corazón abierto"
+ },
+ {
+  "n": 120,
+  "dd": "26",
+  "mm": "01",
+  "name": "Margarita",
+  "meaning": "Inocencia"
+ },
+ {
+  "n": 121,
+  "dd": "27",
+  "mm": "01",
+  "name": "Campanula",
+  "meaning": "Gratitud"
+ },
+ {
+  "n": 122,
+  "dd": "28",
+  "mm": "01",
+  "name": "Verónica",
+  "meaning": "Fidelidad"
+ },
+ {
+  "n": 123,
+  "dd": "29",
+  "mm": "01",
+  "name": "Stock",
+  "meaning": "Belleza duradera"
+ },
+ {
+  "n": 124,
+  "dd": "30",
+  "mm": "01",
+  "name": "Lirio de los valles",
+  "meaning": "Felicidad recuperada"
+ },
+ {
+  "n": 125,
+  "dd": "31",
+  "mm": "01",
+  "name": "Pensamiento",
+  "meaning": "Pensamiento afectuoso"
+ },
+ {
+  "n": 126,
+  "dd": "01",
+  "mm": "02",
+  "name": "Jacinto azul",
+  "meaning": "Constancia"
+ },
+ {
+  "n": 127,
+  "dd": "02",
+  "mm": "02",
+  "name": "Jacinto blanco",
+  "meaning": "Belleza discreta"
+ },
+ {
+  "n": 128,
+  "dd": "03",
+  "mm": "02",
+  "name": "Jacinto amarillo",
+  "meaning": "Celos"
+ },
+ {
+  "n": 129,
+  "dd": "04",
+  "mm": "02",
+  "name": "Gardenia",
+  "meaning": "Dulzura"
+ },
+ {
+  "n": 130,
+  "dd": "05",
+  "mm": "02",
+  "name": "Lila morada",
+  "meaning": "Primer amor"
+ },
+ {
+  "n": 131,
+  "dd": "06",
+  "mm": "02",
+  "name": "Lila blanca",
+  "meaning": "Inocencia juvenil"
+ },
+ {
+  "n": 132,
+  "dd": "07",
+  "mm": "02",
+  "name": "Rosa mosqueta",
+  "meaning": "Sencillez"
+ },
+ {
+  "n": 133,
+  "dd": "08",
+  "mm": "02",
+  "name": "Orquídea blanca",
+  "meaning": "Elegancia"
+ },
+ {
+  "n": 134,
+  "dd": "09",
+  "mm": "02",
+  "name": "Orquídea rosa",
+  "meaning": "Admiración"
+ },
+ {
+  "n": 135,
+  "dd": "10",
+  "mm": "02",
+  "name": "Orquídea púrpura",
+  "meaning": "Respeto"
+ },
+ {
+  "n": 136,
+  "dd": "11",
+  "mm": "02",
+  "name": "Orquídea naranja",
+  "meaning": "Entusiasmo"
+ },
+ {
+  "n": 137,
+  "dd": "12",
+  "mm": "02",
+  "name": "Orquídea roja",
+  "meaning": "Pasión"
+ },
+ {
+  "n": 138,
+  "dd": "13",
+  "mm": "02",
+  "name": "Tulipán rosa",
+  "meaning": "Afecto"
+ },
+ {
+  "n": 139,
+  "dd": "14",
+  "mm": "02",
+  "name": "Rosa roja",
+  "meaning": "Amor romántico"
+ },
+ {
+  "n": 140,
+  "dd": "15",
+  "mm": "02",
+  "name": "Peonía",
+  "meaning": "Timidez"
+ },
+ {
+  "n": 141,
+  "dd": "16",
+  "mm": "02",
+  "name": "Ranúnculo",
+  "meaning": "Encanto"
+ },
+ {
+  "n": 142,
+  "dd": "17",
+  "mm": "02",
+  "name": "Viola",
+  "meaning": "Pensamientos amorosos"
+ },
+ {
+  "n": 143,
+  "dd": "18",
+  "mm": "02",
+  "name": "Ciclamen",
+  "meaning": "Despedida"
+ },
+ {
+  "n": 144,
+  "dd": "19",
+  "mm": "02",
+  "name": "Nomeolvides",
+  "meaning": "Amor verdadero"
+ },
+ {
+  "n": 145,
+  "dd": "20",
+  "mm": "02",
+  "name": "Loto blanco",
+  "meaning": "Paz"
+ },
+ {
+  "n": 146,
+  "dd": "21",
+  "mm": "02",
+  "name": "Loto rosa",
+  "meaning": "Iluminación"
+ },
+ {
+  "n": 147,
+  "dd": "22",
+  "mm": "02",
+  "name": "Loto azul",
+  "meaning": "Sabiduría"
+ },
+ {
+  "n": 148,
+  "dd": "23",
+  "mm": "02",
+  "name": "Loto rojo",
+  "meaning": "Compasión"
+ },
+ {
+  "n": 149,
+  "dd": "24",
+  "mm": "02",
+  "name": "Buganvilla rosa",
+  "meaning": "Pasión afectuosa"
+ },
+ {
+  "n": 150,
+  "dd": "25",
+  "mm": "02",
+  "name": "Geranio blanco",
+  "meaning": "Amistad"
+ },
+ {
+  "n": 151,
+  "dd": "26",
+  "mm": "02",
+  "name": "Geranio rojo",
+  "meaning": "Consuelo"
+ },
+ {
+  "n": 152,
+  "dd": "27",
+  "mm": "02",
+  "name": "Geranio rosa",
+  "meaning": "Preferencia"
+ },
+ {
+  "n": 153,
+  "dd": "28",
+  "mm": "02",
+  "name": "Geranio escarlata",
+  "meaning": "Consuelo"
+ },
+ {
+  "n": 154,
+  "dd": "01",
+  "mm": "03",
+  "name": "Magnolia",
+  "meaning": "Dignidad"
+ },
+ {
+  "n": 155,
+  "dd": "02",
+  "mm": "03",
+  "name": "Forsitia",
+  "meaning": "Anticipación"
+ },
+ {
+  "n": 156,
+  "dd": "03",
+  "mm": "03",
+  "name": "Flor de almendro",
+  "meaning": "Esperanza"
+ },
+ {
+  "n": 157,
+  "dd": "04",
+  "mm": "03",
+  "name": "Flor de manzano",
+  "meaning": "Preferencia"
+ },
+ {
+  "n": 158,
+  "dd": "05",
+  "mm": "03",
+  "name": "Flor de pera",
+  "meaning": "Esperanza"
+ },
+ {
+  "n": 159,
+  "dd": "06",
+  "mm": "03",
+  "name": "Flor de melocotón",
+  "meaning": "Juventud"
+ },
+ {
+  "n": 160,
+  "dd": "07",
+  "mm": "03",
+  "name": "Flor de ciruelo",
+  "meaning": "Perseverancia"
+ },
+ {
+  "n": 161,
+  "dd": "08",
+  "mm": "03",
+  "name": "Mimosa",
+  "meaning": "Sensibilidad y reconocimiento"
+ },
+ {
+  "n": 162,
+  "dd": "09",
+  "mm": "03",
+  "name": "Narciso amarillo",
+  "meaning": "Respeto"
+ },
+ {
+  "n": 163,
+  "dd": "10",
+  "mm": "03",
+  "name": "Iris azul",
+  "meaning": "Mensaje"
+ },
+ {
+  "n": 164,
+  "dd": "11",
+  "mm": "03",
+  "name": "Iris morado",
+  "meaning": "Sabiduría"
+ },
+ {
+  "n": 165,
+  "dd": "12",
+  "mm": "03",
+  "name": "Iris blanco",
+  "meaning": "Esperanza"
+ },
+ {
+  "n": 166,
+  "dd": "13",
+  "mm": "03",
+  "name": "Iris amarillo",
+  "meaning": "Pasión"
+ },
+ {
+  "n": 167,
+  "dd": "14",
+  "mm": "03",
+  "name": "Flor de cerezo japonés",
+  "meaning": "Renovación"
+ },
+ {
+  "n": 168,
+  "dd": "15",
+  "mm": "03",
+  "name": "Cártamo",
+  "meaning": "Alegría"
+ },
+ {
+  "n": 169,
+  "dd": "16",
+  "mm": "03",
+  "name": "Caléndula amarilla",
+  "meaning": "Optimismo"
+ },
+ {
+  "n": 170,
+  "dd": "17",
+  "mm": "03",
+  "name": "Prímula amarilla",
+  "meaning": "Juventud"
+ },
+ {
+  "n": 171,
+  "dd": "18",
+  "mm": "03",
+  "name": "Margarita azul",
+  "meaning": "Lealtad"
+ },
+ {
+  "n": 172,
+  "dd": "19",
+  "mm": "03",
+  "name": "Clavel rosa",
+  "meaning": "Amor maternal"
+ },
+ {
+  "n": 173,
+  "dd": "20",
+  "mm": "03",
+  "name": "Narciso blanco",
+  "meaning": "Amor propio"
+ },
+ {
+  "n": 174,
+  "dd": "21",
+  "mm": "03",
+  "name": "Girasol",
+  "meaning": "Adoración"
+ },
+ {
+  "n": 175,
+  "dd": "22",
+  "mm": "03",
+  "name": "Diente de león amarillo",
+  "meaning": "Felicidad"
+ },
+ {
+  "n": 176,
+  "dd": "23",
+  "mm": "03",
+  "name": "Prímula roja",
+  "meaning": "Amor joven"
+ },
+ {
+  "n": 177,
+  "dd": "24",
+  "mm": "03",
+  "name": "Azafrán morado",
+  "meaning": "Renacimiento"
+ },
+ {
+  "n": 178,
+  "dd": "25",
+  "mm": "03",
+  "name": "Flor de haba",
+  "meaning": "Humildad"
+ },
+ {
+  "n": 179,
+  "dd": "26",
+  "mm": "03",
+  "name": "Espino blanco",
+  "meaning": "Esperanza"
+ },
+ {
+  "n": 180,
+  "dd": "27",
+  "mm": "03",
+  "name": "Celinda",
+  "meaning": "Engaño"
+ },
+ {
+  "n": 181,
+  "dd": "28",
+  "mm": "03",
+  "name": "Borraja azul",
+  "meaning": "Valentía"
+ },
+ {
+  "n": 182,
+  "dd": "29",
+  "mm": "03",
+  "name": "Flor de granado",
+  "meaning": "Fertilidad"
+ },
+ {
+  "n": 183,
+  "dd": "30",
+  "mm": "03",
+  "name": "Flor de higuera",
+  "meaning": "Abundancia"
+ },
+ {
+  "n": 184,
+  "dd": "31",
+  "mm": "03",
+  "name": "Flor de níspero",
+  "meaning": "Perseverancia"
+ },
+ {
+  "n": 185,
+  "dd": "01",
+  "mm": "04",
+  "name": "Malva rosa",
+  "meaning": "Dulzura"
+ },
+ {
+  "n": 186,
+  "dd": "02",
+  "mm": "04",
+  "name": "Boronia",
+  "meaning": "Amor secreto"
+ },
+ {
+  "n": 187,
+  "dd": "03",
+  "mm": "04",
+  "name": "Glicinia",
+  "meaning": "Juventud"
+ },
+ {
+  "n": 188,
+  "dd": "04",
+  "mm": "04",
+  "name": "Azahar",
+  "meaning": "Pureza matrimonial"
+ },
+ {
+  "n": 189,
+  "dd": "05",
+  "mm": "04",
+  "name": "Margarita rosa",
+  "meaning": "Afecto sincero"
+ },
+ {
+  "n": 190,
+  "dd": "06",
+  "mm": "04",
+  "name": "Lirio naranja",
+  "meaning": "Energía"
+ },
+ {
+  "n": 191,
+  "dd": "07",
+  "mm": "04",
+  "name": "Iris blanco",
+  "meaning": "Esperanza"
+ },
+ {
+  "n": 192,
+  "dd": "08",
+  "mm": "04",
+  "name": "Tulipán amarillo",
+  "meaning": "Alegría"
+ },
+ {
+  "n": 193,
+  "dd": "09",
+  "mm": "04",
+  "name": "Tulipán morado",
+  "meaning": "Realeza"
+ },
+ {
+  "n": 194,
+  "dd": "10",
+  "mm": "04",
+  "name": "Tulipán blanco",
+  "meaning": "Perdón"
+ },
+ {
+  "n": 195,
+  "dd": "11",
+  "mm": "04",
+  "name": "Tulipán rayado",
+  "meaning": "Ojos hermosos"
+ },
+ {
+  "n": 196,
+  "dd": "12",
+  "mm": "04",
+  "name": "Alhelí rojo",
+  "meaning": "Fidelidad"
+ },
+ {
+  "n": 197,
+  "dd": "13",
+  "mm": "04",
+  "name": "Amapola roja",
+  "meaning": "Consuelo"
+ },
+ {
+  "n": 198,
+  "dd": "14",
+  "mm": "04",
+  "name": "Amapola blanca",
+  "meaning": "Sueño"
+ },
+ {
+  "n": 199,
+  "dd": "15",
+  "mm": "04",
+  "name": "Rododendro",
+  "meaning": "Peligro"
+ },
+ {
+  "n": 200,
+  "dd": "16",
+  "mm": "04",
+  "name": "Brezo morado",
+  "meaning": "Admiración"
+ },
+ {
+  "n": 201,
+  "dd": "17",
+  "mm": "04",
+  "name": "Malvón",
+  "meaning": "Encuentro"
+ },
+ {
+  "n": 202,
+  "dd": "18",
+  "mm": "04",
+  "name": "Flor de tilo",
+  "meaning": "Amor conyugal"
+ },
+ {
+  "n": 203,
+  "dd": "19",
+  "mm": "04",
+  "name": "Lavanda",
+  "meaning": "Devoción"
+ },
+ {
+  "n": 204,
+  "dd": "20",
+  "mm": "04",
+  "name": "Lirio amarillo",
+  "meaning": "Alegría"
+ },
+ {
+  "n": 205,
+  "dd": "21",
+  "mm": "04",
+  "name": "Jacinto rosa",
+  "meaning": "Juego"
+ },
+ {
+  "n": 206,
+  "dd": "22",
+  "mm": "04",
+  "name": "Lirio tigre",
+  "meaning": "Riqueza"
+ },
+ {
+  "n": 207,
+  "dd": "23",
+  "mm": "04",
+  "name": "Rosa",
+  "meaning": "Sant Jordi / amor"
+ },
+ {
+  "n": 208,
+  "dd": "24",
+  "mm": "04",
+  "name": "Pensamiento amarillo",
+  "meaning": "Recuerdo"
+ },
+ {
+  "n": 209,
+  "dd": "25",
+  "mm": "04",
+  "name": "Espino rosado",
+  "meaning": "Esperanza"
+ },
+ {
+  "n": 210,
+  "dd": "26",
+  "mm": "04",
+  "name": "Lirio rojo",
+  "meaning": "Pasión"
+ },
+ {
+  "n": 211,
+  "dd": "27",
+  "mm": "04",
+  "name": "Rosa de Montserrat",
+  "meaning": "Devoción"
+ },
+ {
+  "n": 212,
+  "dd": "28",
+  "mm": "04",
+  "name": "Flor de granado blanco",
+  "meaning": "Pureza"
+ },
+ {
+  "n": 213,
+  "dd": "29",
+  "mm": "04",
+  "name": "Flor de saúco",
+  "meaning": "Compasión"
+ },
+ {
+  "n": 214,
+  "dd": "30",
+  "mm": "04",
+  "name": "Flor de castaño",
+  "meaning": "Bondad"
+ },
+ {
+  "n": 215,
+  "dd": "01",
+  "mm": "05",
+  "name": "Lirio de agua",
+  "meaning": "Renovación"
+ },
+ {
+  "n": 216,
+  "dd": "02",
+  "mm": "05",
+  "name": "Clavel rosa",
+  "meaning": "Amor maternal"
+ },
+ {
+  "n": 217,
+  "dd": "03",
+  "mm": "05",
+  "name": "Peonía blanca",
+  "meaning": "Timidez"
+ },
+ {
+  "n": 218,
+  "dd": "04",
+  "mm": "05",
+  "name": "Espuela de caballero azul",
+  "meaning": "Corazón abierto"
+ },
+ {
+  "n": 219,
+  "dd": "05",
+  "mm": "05",
+  "name": "Loto amarillo",
+  "meaning": "Espiritualidad"
+ },
+ {
+  "n": 220,
+  "dd": "06",
+  "mm": "05",
+  "name": "Azucena rosa",
+  "meaning": "Devoción"
+ },
+ {
+  "n": 221,
+  "dd": "07",
+  "mm": "05",
+  "name": "Campanilla blanca",
+  "meaning": "Gratitud"
+ },
+ {
+  "n": 222,
+  "dd": "08",
+  "mm": "05",
+  "name": "Gladiolo blanco",
+  "meaning": "Honestidad"
+ },
+ {
+  "n": 223,
+  "dd": "09",
+  "mm": "05",
+  "name": "Gladiolo rojo",
+  "meaning": "Fuerza"
+ },
+ {
+  "n": 224,
+  "dd": "10",
+  "mm": "05",
+  "name": "Gladiolo rosa",
+  "meaning": "Admiración"
+ },
+ {
+  "n": 225,
+  "dd": "11",
+  "mm": "05",
+  "name": "Gladiolo amarillo",
+  "meaning": "Alegría"
+ },
+ {
+  "n": 226,
+  "dd": "12",
+  "mm": "05",
+  "name": "Capuchina",
+  "meaning": "Victoria"
+ },
+ {
+  "n": 227,
+  "dd": "13",
+  "mm": "05",
+  "name": "Lantana",
+  "meaning": "Rigor"
+ },
+ {
+  "n": 228,
+  "dd": "14",
+  "mm": "05",
+  "name": "Flor de saúco blanco",
+  "meaning": "Compasión"
+ },
+ {
+  "n": 229,
+  "dd": "15",
+  "mm": "05",
+  "name": "Amapola naranja",
+  "meaning": "Vitalidad"
+ },
+ {
+  "n": 230,
+  "dd": "16",
+  "mm": "05",
+  "name": "Margarita amarilla",
+  "meaning": "Optimismo"
+ },
+ {
+  "n": 231,
+  "dd": "17",
+  "mm": "05",
+  "name": "Azucena naranja",
+  "meaning": "Alegría"
+ },
+ {
+  "n": 232,
+  "dd": "18",
+  "mm": "05",
+  "name": "Flor de tilo",
+  "meaning": "Amor conyugal"
+ },
+ {
+  "n": 233,
+  "dd": "19",
+  "mm": "05",
+  "name": "Espino",
+  "meaning": "Protección"
+ },
+ {
+  "n": 234,
+  "dd": "20",
+  "mm": "05",
+  "name": "Peonía roja",
+  "meaning": "Romance"
+ },
+ {
+  "n": 235,
+  "dd": "21",
+  "mm": "05",
+  "name": "Rosa de té",
+  "meaning": "Celos"
+ },
+ {
+  "n": 236,
+  "dd": "22",
+  "mm": "05",
+  "name": "Aquilegia",
+  "meaning": "Amor caprichoso"
+ },
+ {
+  "n": 237,
+  "dd": "23",
+  "mm": "05",
+  "name": "Verbena rosa",
+  "meaning": "Encanto"
+ },
+ {
+  "n": 238,
+  "dd": "24",
+  "mm": "05",
+  "name": "Flor de naranjo",
+  "meaning": "Matrimonio"
+ },
+ {
+  "n": 239,
+  "dd": "25",
+  "mm": "05",
+  "name": "Balsamina",
+  "meaning": "Impaciencia"
+ },
+ {
+  "n": 240,
+  "dd": "26",
+  "mm": "05",
+  "name": "Campanula azul",
+  "meaning": "Gratitud"
+ },
+ {
+  "n": 241,
+  "dd": "27",
+  "mm": "05",
+  "name": "Flox rosa",
+  "meaning": "Armonía"
+ },
+ {
+  "n": 242,
+  "dd": "28",
+  "mm": "05",
+  "name": "Flox blanco",
+  "meaning": "Unidad"
+ },
+ {
+  "n": 243,
+  "dd": "29",
+  "mm": "05",
+  "name": "Flox púrpura",
+  "meaning": "Dulzura"
+ },
+ {
+  "n": 244,
+  "dd": "30",
+  "mm": "05",
+  "name": "Muguet",
+  "meaning": "Felicidad"
+ },
+ {
+  "n": 245,
+  "dd": "31",
+  "mm": "05",
+  "name": "Azucena amarilla",
+  "meaning": "Alegría"
+ },
+ {
+  "n": 246,
+  "dd": "01",
+  "mm": "06",
+  "name": "Madreselva blanca",
+  "meaning": "Amor devoto"
+ },
+ {
+  "n": 247,
+  "dd": "02",
+  "mm": "06",
+  "name": "Lisianthus blanco",
+  "meaning": "Apreciación"
+ },
+ {
+  "n": 248,
+  "dd": "03",
+  "mm": "06",
+  "name": "Lisianthus rosa",
+  "meaning": "Gratitud"
+ },
+ {
+  "n": 249,
+  "dd": "04",
+  "mm": "06",
+  "name": "Lisianthus morado",
+  "meaning": "Encanto"
+ },
+ {
+  "n": 250,
+  "dd": "05",
+  "mm": "06",
+  "name": "Zinnia rosa",
+  "meaning": "Amistad duradera"
+ },
+ {
+  "n": 251,
+  "dd": "06",
+  "mm": "06",
+  "name": "Zinnia roja",
+  "meaning": "Afecto"
+ },
+ {
+  "n": 252,
+  "dd": "07",
+  "mm": "06",
+  "name": "Zinnia amarilla",
+  "meaning": "Recuerdo de un amigo"
+ },
+ {
+  "n": 253,
+  "dd": "08",
+  "mm": "06",
+  "name": "Zinnia blanca",
+  "meaning": "Bondad"
+ },
+ {
+  "n": 254,
+  "dd": "09",
+  "mm": "06",
+  "name": "Zinnia naranja",
+  "meaning": "Resistencia"
+ },
+ {
+  "n": 255,
+  "dd": "10",
+  "mm": "06",
+  "name": "Plumeria blanca",
+  "meaning": "Belleza"
+ },
+ {
+  "n": 256,
+  "dd": "11",
+  "mm": "06",
+  "name": "Plumeria rosa",
+  "meaning": "Afecto"
+ },
+ {
+  "n": 257,
+  "dd": "12",
+  "mm": "06",
+  "name": "Plumeria amarilla",
+  "meaning": "Amistad"
+ },
+ {
+  "n": 258,
+  "dd": "13",
+  "mm": "06",
+  "name": "Hibisco rojo",
+  "meaning": "Pasión"
+ },
+ {
+  "n": 259,
+  "dd": "14",
+  "mm": "06",
+  "name": "Hibisco rosa",
+  "meaning": "Belleza"
+ },
+ {
+  "n": 260,
+  "dd": "15",
+  "mm": "06",
+  "name": "Hibisco amarillo",
+  "meaning": "Felicidad"
+ },
+ {
+  "n": 261,
+  "dd": "16",
+  "mm": "06",
+  "name": "Hibisco blanco",
+  "meaning": "Pureza"
+ },
+ {
+  "n": 262,
+  "dd": "17",
+  "mm": "06",
+  "name": "Hibisco naranja",
+  "meaning": "Energía"
+ },
+ {
+  "n": 263,
+  "dd": "18",
+  "mm": "06",
+  "name": "Ave del paraíso",
+  "meaning": "Libertad"
+ },
+ {
+  "n": 264,
+  "dd": "19",
+  "mm": "06",
+  "name": "Cala rosa",
+  "meaning": "Belleza"
+ },
+ {
+  "n": 265,
+  "dd": "20",
+  "mm": "06",
+  "name": "Cala amarilla",
+  "meaning": "Gratitud"
+ },
+ {
+  "n": 266,
+  "dd": "21",
+  "mm": "06",
+  "name": "Cala púrpura",
+  "meaning": "Pasión"
+ },
+ {
+  "n": 267,
+  "dd": "22",
+  "mm": "06",
+  "name": "Liatris",
+  "meaning": "Felicidad"
+ },
+ {
+  "n": 268,
+  "dd": "23",
+  "mm": "06",
+  "name": "Hipérico",
+  "meaning": "Protección"
+ },
+ {
+  "n": 269,
+  "dd": "24",
+  "mm": "06",
+  "name": "Verbena de San Juan",
+  "meaning": "Protección / celebración"
+ },
+ {
+  "n": 270,
+  "dd": "25",
+  "mm": "06",
+  "name": "Hinojo en flor",
+  "meaning": "Fuerza"
+ },
+ {
+  "n": 271,
+  "dd": "26",
+  "mm": "06",
+  "name": "Espliego",
+  "meaning": "Tranquilidad"
+ },
+ {
+  "n": 272,
+  "dd": "27",
+  "mm": "06",
+  "name": "Tilo en flor",
+  "meaning": "Amor conyugal"
+ },
+ {
+  "n": 273,
+  "dd": "28",
+  "mm": "06",
+  "name": "Achicoria",
+  "meaning": "Frugalidad"
+ },
+ {
+  "n": 274,
+  "dd": "29",
+  "mm": "06",
+  "name": "Borraja blanca",
+  "meaning": "Serenidad"
+ },
+ {
+  "n": 275,
+  "dd": "30",
+  "mm": "06",
+  "name": "Margarita africana",
+  "meaning": "Alegría"
+ },
+ {
+  "n": 276,
+  "dd": "01",
+  "mm": "07",
+  "name": "Boca de dragón rosa",
+  "meaning": "Gracia"
+ },
+ {
+  "n": 277,
+  "dd": "02",
+  "mm": "07",
+  "name": "Boca de dragón amarilla",
+  "meaning": "Fuerza"
+ },
+ {
+  "n": 278,
+  "dd": "03",
+  "mm": "07",
+  "name": "Boca de dragón blanca",
+  "meaning": "Inocencia"
+ },
+ {
+  "n": 279,
+  "dd": "04",
+  "mm": "07",
+  "name": "Dalia blanca",
+  "meaning": "Elegancia"
+ },
+ {
+  "n": 280,
+  "dd": "05",
+  "mm": "07",
+  "name": "Dalia amarilla",
+  "meaning": "Compromiso"
+ },
+ {
+  "n": 281,
+  "dd": "06",
+  "mm": "07",
+  "name": "Dalia roja",
+  "meaning": "Amor"
+ },
+ {
+  "n": 282,
+  "dd": "07",
+  "mm": "07",
+  "name": "Dalia rosa",
+  "meaning": "Bondad"
+ },
+ {
+  "n": 283,
+  "dd": "08",
+  "mm": "07",
+  "name": "Dalia morada",
+  "meaning": "Dignidad"
+ },
+ {
+  "n": 284,
+  "dd": "09",
+  "mm": "07",
+  "name": "Dalia naranja",
+  "meaning": "Fuerza"
+ },
+ {
+  "n": 285,
+  "dd": "10",
+  "mm": "07",
+  "name": "Equinácea",
+  "meaning": "Fortaleza"
+ },
+ {
+  "n": 286,
+  "dd": "11",
+  "mm": "07",
+  "name": "Equinácea blanca",
+  "meaning": "Recuperación"
+ },
+ {
+  "n": 287,
+  "dd": "12",
+  "mm": "07",
+  "name": "Equinácea rosa",
+  "meaning": "Resistencia"
+ },
+ {
+  "n": 288,
+  "dd": "13",
+  "mm": "07",
+  "name": "Rudbeckia amarilla",
+  "meaning": "Justicia"
+ },
+ {
+  "n": 289,
+  "dd": "14",
+  "mm": "07",
+  "name": "Rudbeckia naranja",
+  "meaning": "Ánimo"
+ },
+ {
+  "n": 290,
+  "dd": "15",
+  "mm": "07",
+  "name": "Coreopsis",
+  "meaning": "Alegría"
+ },
+ {
+  "n": 291,
+  "dd": "16",
+  "mm": "07",
+  "name": "Coreopsis rosa",
+  "meaning": "Felicidad"
+ },
+ {
+  "n": 292,
+  "dd": "17",
+  "mm": "07",
+  "name": "Coreopsis amarilla",
+  "meaning": "Buen humor"
+ },
+ {
+  "n": 293,
+  "dd": "18",
+  "mm": "07",
+  "name": "Aster rosa",
+  "meaning": "Amor delicado"
+ },
+ {
+  "n": 294,
+  "dd": "19",
+  "mm": "07",
+  "name": "Aster morado",
+  "meaning": "Sabiduría"
+ },
+ {
+  "n": 295,
+  "dd": "20",
+  "mm": "07",
+  "name": "Aster azul",
+  "meaning": "Paciencia"
+ },
+ {
+  "n": 296,
+  "dd": "21",
+  "mm": "07",
+  "name": "Aster rojo",
+  "meaning": "Amor"
+ },
+ {
+  "n": 297,
+  "dd": "22",
+  "mm": "07",
+  "name": "Gloria de la mañana",
+  "meaning": "Afecto"
+ },
+ {
+  "n": 298,
+  "dd": "23",
+  "mm": "07",
+  "name": "Petunia rosa",
+  "meaning": "Presencia tranquilizadora"
+ },
+ {
+  "n": 299,
+  "dd": "24",
+  "mm": "07",
+  "name": "Petunia morada",
+  "meaning": "Encanto"
+ },
+ {
+  "n": 300,
+  "dd": "25",
+  "mm": "07",
+  "name": "Petunia blanca",
+  "meaning": "Pureza"
+ },
+ {
+  "n": 301,
+  "dd": "26",
+  "mm": "07",
+  "name": "Petunia roja",
+  "meaning": "Pasión"
+ },
+ {
+  "n": 302,
+  "dd": "27",
+  "mm": "07",
+  "name": "Impatiens rosa",
+  "meaning": "Paciencia"
+ },
+ {
+  "n": 303,
+  "dd": "28",
+  "mm": "07",
+  "name": "Impatiens blanca",
+  "meaning": "Inocencia"
+ },
+ {
+  "n": 304,
+  "dd": "29",
+  "mm": "07",
+  "name": "Impatiens roja",
+  "meaning": "Amor ardiente"
+ },
+ {
+  "n": 305,
+  "dd": "30",
+  "mm": "07",
+  "name": "Salvia roja",
+  "meaning": "Sabiduría y pasión"
+ },
+ {
+  "n": 306,
+  "dd": "31",
+  "mm": "07",
+  "name": "Salvia azul",
+  "meaning": "Sabiduría"
+ },
+ {
+  "n": 307,
+  "dd": "01",
+  "mm": "08",
+  "name": "Girasol rojo",
+  "meaning": "Admiración"
+ },
+ {
+  "n": 308,
+  "dd": "02",
+  "mm": "08",
+  "name": "Girasol naranja",
+  "meaning": "Vitalidad"
+ },
+ {
+  "n": 309,
+  "dd": "03",
+  "mm": "08",
+  "name": "Girasol crema",
+  "meaning": "Admiración"
+ },
+ {
+  "n": 310,
+  "dd": "04",
+  "mm": "08",
+  "name": "Heliconia",
+  "meaning": "Orgullo"
+ },
+ {
+  "n": 311,
+  "dd": "05",
+  "mm": "08",
+  "name": "Alcatraz naranja",
+  "meaning": "Entusiasmo"
+ },
+ {
+  "n": 312,
+  "dd": "06",
+  "mm": "08",
+  "name": "Alcatraz rojo",
+  "meaning": "Pasión"
+ },
+ {
+  "n": 313,
+  "dd": "07",
+  "mm": "08",
+  "name": "Alcatraz rosa",
+  "meaning": "Afecto"
+ },
+ {
+  "n": 314,
+  "dd": "08",
+  "mm": "08",
+  "name": "Alcatraz blanco",
+  "meaning": "Pureza"
+ },
+ {
+  "n": 315,
+  "dd": "09",
+  "mm": "08",
+  "name": "Equinácea púrpura",
+  "meaning": "Fuerza"
+ },
+ {
+  "n": 316,
+  "dd": "10",
+  "mm": "08",
+  "name": "Gloriosa",
+  "meaning": "Triunfo"
+ },
+ {
+  "n": 317,
+  "dd": "11",
+  "mm": "08",
+  "name": "Frangipani rojo",
+  "meaning": "Pasión"
+ },
+ {
+  "n": 318,
+  "dd": "12",
+  "mm": "08",
+  "name": "Frangipani blanco",
+  "meaning": "Belleza"
+ },
+ {
+  "n": 319,
+  "dd": "13",
+  "mm": "08",
+  "name": "Frangipani amarillo",
+  "meaning": "Amistad"
+ },
+ {
+  "n": 320,
+  "dd": "14",
+  "mm": "08",
+  "name": "Ixora roja",
+  "meaning": "Pasión"
+ },
+ {
+  "n": 321,
+  "dd": "15",
+  "mm": "08",
+  "name": "Ixora amarilla",
+  "meaning": "Alegría"
+ },
+ {
+  "n": 322,
+  "dd": "16",
+  "mm": "08",
+  "name": "Ixora rosa",
+  "meaning": "Afecto"
+ },
+ {
+  "n": 323,
+  "dd": "17",
+  "mm": "08",
+  "name": "Torenia",
+  "meaning": "Felicidad"
+ },
+ {
+  "n": 324,
+  "dd": "18",
+  "mm": "08",
+  "name": "Lantana rosa",
+  "meaning": "Rigor"
+ },
+ {
+  "n": 325,
+  "dd": "19",
+  "mm": "08",
+  "name": "Lantana amarilla",
+  "meaning": "Cambio"
+ },
+ {
+  "n": 326,
+  "dd": "20",
+  "mm": "08",
+  "name": "Lantana naranja",
+  "meaning": "Entusiasmo"
+ },
+ {
+  "n": 327,
+  "dd": "21",
+  "mm": "08",
+  "name": "Cosmos rojo",
+  "meaning": "Pasión"
+ },
+ {
+  "n": 328,
+  "dd": "22",
+  "mm": "08",
+  "name": "Cosmos naranja",
+  "meaning": "Energía"
+ },
+ {
+  "n": 329,
+  "dd": "23",
+  "mm": "08",
+  "name": "Cosmos blanco",
+  "meaning": "Paz"
+ },
+ {
+  "n": 330,
+  "dd": "24",
+  "mm": "08",
+  "name": "Cosmos rosa",
+  "meaning": "Armonía"
+ },
+ {
+  "n": 331,
+  "dd": "25",
+  "mm": "08",
+  "name": "Zinnia púrpura",
+  "meaning": "Recuerdo"
+ },
+ {
+  "n": 332,
+  "dd": "26",
+  "mm": "08",
+  "name": "Gerbera naranja",
+  "meaning": "Entusiasmo"
+ },
+ {
+  "n": 333,
+  "dd": "27",
+  "mm": "08",
+  "name": "Gerbera rosa",
+  "meaning": "Afecto"
+ },
+ {
+  "n": 334,
+  "dd": "28",
+  "mm": "08",
+  "name": "Gerbera roja",
+  "meaning": "Amor"
+ },
+ {
+  "n": 335,
+  "dd": "29",
+  "mm": "08",
+  "name": "Gerbera amarilla",
+  "meaning": "Alegría"
+ },
+ {
+  "n": 336,
+  "dd": "30",
+  "mm": "08",
+  "name": "Gerbera blanca",
+  "meaning": "Pureza"
+ },
+ {
+  "n": 337,
+  "dd": "31",
+  "mm": "08",
+  "name": "Lirio araña rojo",
+  "meaning": "Recuerdo"
+ },
+ {
+  "n": 338,
+  "dd": "01",
+  "mm": "09",
+  "name": "Lirio araña blanco",
+  "meaning": "Renacimiento"
+ },
+ {
+  "n": 339,
+  "dd": "02",
+  "mm": "09",
+  "name": "Gladiolo naranja",
+  "meaning": "Fuerza"
+ },
+ {
+  "n": 340,
+  "dd": "03",
+  "mm": "09",
+  "name": "Gladiolo púrpura",
+  "meaning": "Nobleza"
+ },
+ {
+  "n": 341,
+  "dd": "04",
+  "mm": "09",
+  "name": "Gladiolo blanco",
+  "meaning": "Honestidad"
+ },
+ {
+  "n": 342,
+  "dd": "05",
+  "mm": "09",
+  "name": "Crisantemo rojo",
+  "meaning": "Amor"
+ },
+ {
+  "n": 343,
+  "dd": "06",
+  "mm": "09",
+  "name": "Crisantemo amarillo",
+  "meaning": "Amor desairado"
+ },
+ {
+  "n": 344,
+  "dd": "07",
+  "mm": "09",
+  "name": "Crisantemo púrpura",
+  "meaning": "Admiración"
+ },
+ {
+  "n": 345,
+  "dd": "08",
+  "mm": "09",
+  "name": "Crisantemo rosa",
+  "meaning": "Amor"
+ },
+ {
+  "n": 346,
+  "dd": "09",
+  "mm": "09",
+  "name": "Hortensia verde",
+  "meaning": "Renovación"
+ },
+ {
+  "n": 347,
+  "dd": "10",
+  "mm": "09",
+  "name": "Hortensia morada",
+  "meaning": "Comprensión"
+ },
+ {
+  "n": 348,
+  "dd": "11",
+  "mm": "09",
+  "name": "Hortensia azul",
+  "meaning": "Arrepentimiento"
+ },
+ {
+  "n": 349,
+  "dd": "12",
+  "mm": "09",
+  "name": "Hortensia rosa",
+  "meaning": "Emoción"
+ },
+ {
+  "n": 350,
+  "dd": "13",
+  "mm": "09",
+  "name": "Hortensia blanca",
+  "meaning": "Gracia"
+ },
+ {
+  "n": 351,
+  "dd": "14",
+  "mm": "09",
+  "name": "Rosa melocotón",
+  "meaning": "Gratitud"
+ },
+ {
+  "n": 352,
+  "dd": "15",
+  "mm": "09",
+  "name": "Rosa crema",
+  "meaning": "Encanto"
+ },
+ {
+  "n": 353,
+  "dd": "16",
+  "mm": "09",
+  "name": "Rosa borgoña",
+  "meaning": "Belleza"
+ },
+ {
+  "n": 354,
+  "dd": "17",
+  "mm": "09",
+  "name": "Rosa verde",
+  "meaning": "Esperanza"
+ },
+ {
+  "n": 355,
+  "dd": "18",
+  "mm": "09",
+  "name": "Rosa naranja",
+  "meaning": "Entusiasmo"
+ },
+ {
+  "n": 356,
+  "dd": "19",
+  "mm": "09",
+  "name": "Rosa lavanda",
+  "meaning": "Amor a primera vista"
+ },
+ {
+  "n": 357,
+  "dd": "20",
+  "mm": "09",
+  "name": "Rosa amarilla",
+  "meaning": "Amistad y cariño"
+ },
+ {
+  "n": 358,
+  "dd": "21",
+  "mm": "09",
+  "name": "Girasol / flores amarillas",
+  "meaning": "Alegría, esperanza y cariño"
+ },
+ {
+  "n": 359,
+  "dd": "22",
+  "mm": "09",
+  "name": "Rosa blanca",
+  "meaning": "Inocencia"
+ },
+ {
+  "n": 360,
+  "dd": "23",
+  "mm": "09",
+  "name": "Rosa rosa",
+  "meaning": "Admiración y gratitud"
+ },
+ {
+  "n": 361,
+  "dd": "24",
+  "mm": "09",
+  "name": "Rosa naranja oscura",
+  "meaning": "Deseo"
+ },
+ {
+  "n": 362,
+  "dd": "25",
+  "mm": "09",
+  "name": "Rosa roja oscura",
+  "meaning": "Pasión profunda"
+ },
+ {
+  "n": 363,
+  "dd": "26",
+  "mm": "09",
+  "name": "Rosa roja y blanca",
+  "meaning": "Unidad"
+ },
+ {
+  "n": 364,
+  "dd": "27",
+  "mm": "09",
+  "name": "Rosa de musgo",
+  "meaning": "Encanto"
+ },
+ {
+  "n": 365,
+  "dd": "28",
+  "mm": "09",
+  "name": "Rosa azul",
+  "meaning": "Lo imposible / lo inalcanzable"
+ }
+]

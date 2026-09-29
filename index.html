@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>365 Días · 365 Flores 🌸</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main class="hero">
+  <div class="hero-emoji">🌸</div>
+  <h1>365 Días · 365 Flores</h1>
+  <p class="subtitle">Un calendario floral: cada día, una flor y su significado.<br>
+  Del <strong>29 de septiembre de 2026</strong> al <strong>28 de septiembre de 2027</strong>.</p>
+  <p id="progress" class="subtitle"></p>
+  <div class="progress" style="max-width:320px"><div id="bar2"></div></div>
+  <div class="actions">
+    <a class="btn btn-primary" href="dias.html">🌼 Todos los días</a>
+    <a class="btn btn-secondary" href="dia_actual.html">📅 Día actual</a>
+  </div>
+</main>
+<footer>Hecho con 💐 · 365 flores, 365 mensajes</footer>
+<script>
+(function () {
+  var start = new Date(2026, 8, 29), end = new Date(2027, 8, 28);
+  var now = new Date(), today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+  var unlocked = Math.floor((today - start) / 864e5) + 1;
+  if (unlocked < 0) unlocked = 0;
+  if (unlocked > 365) unlocked = 365;
+  var msg = '🌸 Llevas <strong>' + unlocked + '</strong> de 365 flores';
+  if (unlocked === 0) msg += ' · la primera se desbloquea el <strong>29/09/2026</strong>';
+  else if (unlocked === 365) msg += ' · calendario completo 🎉';
+  else if (today < end) msg += ' · mañana una nueva 🌱';
+  document.getElementById('progress').innerHTML = msg;
+  document.getElementById('bar2').style.width = (unlocked / 365 * 100) + '%';
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Día actual — 365 Días, 365 Flores 🌸</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <a class="btn btn-ghost" href="index.html">← Inicio</a>
+  <span class="topbar-date">🌸 Flor del día</span>
+  <a class="btn btn-ghost" href="dias.html">📅 Todos los días</a>
+</header>
+<main class="hero">
+  <div class="hero-emoji">🌷</div>
+  <h1 id="msg">Buscando la flor de hoy…</h1>
+</main>
+<script>
+(function () {
+  var start = new Date(2026, 8, 29);            // 29/09/2026
+  var end   = new Date(2027, 8, 28, 23, 59, 59); // 28/09/2027
+  var now   = new Date();
+  var msg   = document.getElementById('msg');
+  if (now >= start && now <= end) {
+    var key = String(now.getMonth() + 1).padStart(2, '0') + '-' +
+              String(now.getDate()).padStart(2, '0');
+    window.location.replace('dia-' + key + '.html');
+  } else {
+    msg.innerHTML = 'Hoy no hay flor asignada 🥀<br><small>El calendario va del <strong>29/09/2026</strong> al <strong>28/09/2027</strong>.</small><br><br>' +
+                    '<a class="btn btn-primary" href="dias.html">Ver todos los días</a>';
+  }
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Flor del día — 365 Días, 365 Flores 🌸</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <a class="btn btn-ghost" href="index.html">← Inicio</a>
+  <span class="topbar-date">🌸 Calendario floral</span>
+  <a class="btn btn-ghost" href="dias.html">📅 Todos los días</a>
+</header>
+<main class="day" id="main"></main>
+<script src="flores.js"></script>
+<script>
+(function () {
+  var KEY = '11-26';
+  var e = null, idx = -1;
+  for (var i = 0; i < FLORES.length; i++) {
+    if (FLORES[i].key === KEY) { e = FLORES[i]; idx = i; break; }
+  }
+  var main = document.getElementById('main');
+  if (!e) { main.innerHTML = '<p>Día no encontrado 🥀</p>'; return; }
+
+  var now = new Date();
+  var today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+  function unlockDate(d) {
+    return new Date(d.year, parseInt(d.mm, 10) - 1, parseInt(d.dd, 10));
+  }
+  var prev = FLORES[idx - 1], next = FLORES[idx + 1];
+
+  function nav() {
+    var h = '<nav class="daynav">';
+    if (prev) {
+      h += (today >= unlockDate(prev))
+        ? '<a class="btn" href="dia-' + prev.key + '.html">← ' + prev.fshort + ': ' + prev.name + '</a>'
+        : '<a class="btn" href="dia-' + prev.key + '.html">← Día anterior 🔒</a>';
+    } else { h += '<span></span>'; }
+    if (next) {
+      h += (today >= unlockDate(next))
+        ? '<a class="btn" href="dia-' + next.key + '.html">' + next.name + ': ' + next.fshort + ' →</a>'
+        : '<a class="btn" href="dia-' + next.key + '.html">Día siguiente 🔒 →</a>';
+    } else { h += '<span></span>'; }
+    return h + '</nav>';
+  }
+
+  if (today >= unlockDate(e)) {
+    /* ---------- DÍA DESBLOQUEADO ---------- */
+    document.title = e.fdate + ' · ' + e.name + ' — 365 Días, 365 Flores 🌸';
+    main.innerHTML =
+      '<p class="kicker">Flor n.º ' + e.n + ' del calendario · ' + e.fdate + '</p>' +
+      '<h1>' + e.name + '</h1>' +
+      '<p class="meaning">«' + e.meaning + '»</p>' +
+      '<figure class="photo"><img src="img/' + e.key + '-' + e.slug + '.jpg" alt="' + e.name + '" loading="lazy" ' +
+      'onerror="this.onerror=null;this.src=\'https://placehold.co/1000x700/f3e5f5/6a4c76?text=' + e.slug.replace(/-/g, '+') + '\'">' +
+      '<figcaption>Sustituye esta imagen por tu foto: <code>img/' + e.key + '-' + e.slug + '.jpg</code></figcaption></figure>' +
+      '<p class="desc">Hoy, <strong>' + e.fdate + '</strong>, la flor del día es el <strong>' + e.name + '</strong>, ' +
+      'que en este calendario simboliza <strong>«' + e.meaning + '»</strong>. ' +
+      'Un día, una flor, un mensaje: guarda este pequeño ritual floral contigo. 🌸</p>' +
+      nav();
+  } else {
+    /* ---------- DÍA BLOQUEADO ---------- */
+    var dias = Math.round((unlockDate(e) - today) / 864e5);
+    document.title = '🔒 Flor del ' + e.fdate + ' — aún bloqueada';
+    main.innerHTML =
+      '<p class="lock-emoji">🔒</p>' +
+      '<h1>Una flor misteriosa</h1>' +
+      '<p class="meaning">Se desbloquea el ' + e.fdate + '</p>' +
+      '<figure class="photo"><img src="https://placehold.co/1000x700/efe6f0/8a6a92?text=%3F" alt="Flor misteriosa"></figure>' +
+      '<p class="desc">Esta flor aún está en el capullo 🌱. Vuelve en <strong>' + dias + ' día' +
+      (dias === 1 ? '' : 's') + '</strong> para descubrirla.<br>' +
+      'Pista: su nombre empieza por «<strong>' + e.name.charAt(0).toUpperCase() + '</strong>»…</p>' +
+      nav();
+  }
+})();
+</script>
+</body>
+</html>
